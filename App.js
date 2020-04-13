@@ -20,7 +20,7 @@ function HomeScreen({ navigation }) {
   });
 
   return (
-    <HomeScreenx />
+    <HomeScreenx navigation={navigation} />
   );
 }
 
