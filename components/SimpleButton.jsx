@@ -1,14 +1,20 @@
 import React from 'react';
-import { Text, View, TouchableOpacity } from 'react-native';
+import PropTypes from 'prop-types';
+import { Text, TouchableOpacity, View } from 'react-native';
 
-function SimpleButton() {
+function SimpleButton(props) {
   return (
-    <TouchableOpacity onPress={() => console.log('Pressed!')}>
+    <TouchableOpacity onPress={props.onPress}>
       <View>
-        <Text>Simple Button</Text>
+        <Text>{props.customText || 'Simple Button'}</Text>
       </View>
     </TouchableOpacity>
   );
 }
 
 export default SimpleButton;
+
+SimpleButton.propTypes = {
+  customText: PropTypes.string.isRequired,
+  onPress: PropTypes.func.isRequired,
+};
