@@ -28,6 +28,11 @@
     <property name="nodejs_package_manager_path" value="yarn" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="," />
+    </option>
+  </component>
   <component name="RunManager" selected="npm.start">
     <configuration name="android" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/package.json" />
@@ -68,7 +73,12 @@
       <workItem from="1586743904333" duration="2772000" />
       <workItem from="1586746726617" duration="6214000" />
       <workItem from="1586761488006" duration="9096000" />
-      <workItem from="1586777772266" duration="1580000" />
+      <workItem from="1586777772266" duration="3134000" />
+      <workItem from="1586829555060" duration="10462000" />
+      <workItem from="1586914778664" duration="1887000" />
+      <workItem from="1586916705914" duration="7290000" />
+      <workItem from="1587350075389" duration="43000" />
+      <workItem from="1587350170070" duration="6840000" />
     </task>
     <servers />
   </component>
@@ -76,29 +86,37 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1343" height="179" key="GridCell.Tab.0.bottom" timestamp="1586778669983">
+    <state x="100" y="121" width="1166" height="505" maximized="true" key="DiffContextDialog" timestamp="1586831198513">
       <screen x="0" y="22" width="1366" height="704" />
     </state>
-    <state width="1343" height="179" key="GridCell.Tab.0.bottom/0.22.1366.704@0.22.1366.704" timestamp="1586778669983" />
-    <state width="1343" height="179" key="GridCell.Tab.0.center" timestamp="1586778669982">
+    <state x="100" y="121" width="1166" height="505" maximized="true" key="DiffContextDialog/0.22.1366.704@0.22.1366.704" timestamp="1586831198513" />
+    <state width="1343" height="179" key="GridCell.Tab.0.bottom" timestamp="1587366666030">
       <screen x="0" y="22" width="1366" height="704" />
     </state>
-    <state width="1343" height="179" key="GridCell.Tab.0.center/0.22.1366.704@0.22.1366.704" timestamp="1586778669982" />
-    <state width="1343" height="179" key="GridCell.Tab.0.left" timestamp="1586778669981">
+    <state width="1343" height="179" key="GridCell.Tab.0.bottom/0.22.1366.704@0.22.1366.704" timestamp="1587366666030" />
+    <state width="1343" height="179" key="GridCell.Tab.0.center" timestamp="1587366666029">
       <screen x="0" y="22" width="1366" height="704" />
     </state>
-    <state width="1343" height="179" key="GridCell.Tab.0.left/0.22.1366.704@0.22.1366.704" timestamp="1586778669981" />
-    <state width="1343" height="179" key="GridCell.Tab.0.right" timestamp="1586778669983">
+    <state width="1343" height="179" key="GridCell.Tab.0.center/0.22.1366.704@0.22.1366.704" timestamp="1587366666029" />
+    <state width="1343" height="179" key="GridCell.Tab.0.left" timestamp="1587366666028">
       <screen x="0" y="22" width="1366" height="704" />
     </state>
-    <state width="1343" height="179" key="GridCell.Tab.0.right/0.22.1366.704@0.22.1366.704" timestamp="1586778669983" />
+    <state width="1343" height="179" key="GridCell.Tab.0.left/0.22.1366.704@0.22.1366.704" timestamp="1587366666028" />
+    <state width="1343" height="179" key="GridCell.Tab.0.right" timestamp="1587366666029">
+      <screen x="0" y="22" width="1366" height="704" />
+    </state>
+    <state width="1343" height="179" key="GridCell.Tab.0.right/0.22.1366.704@0.22.1366.704" timestamp="1587366666029" />
     <state x="179" y="22" width="997" height="704" key="SettingsEditor" timestamp="1586746668666">
       <screen x="0" y="22" width="1366" height="704" />
     </state>
     <state x="179" y="22" width="997" height="704" key="SettingsEditor/0.22.1366.704@0.22.1366.704" timestamp="1586746668666" />
-    <state x="346" y="46" width="672" height="678" key="search.everywhere.popup" timestamp="1586778454765">
+    <state x="347" y="165" key="run.anything.popup" timestamp="1586835390202">
       <screen x="0" y="22" width="1366" height="704" />
     </state>
-    <state x="346" y="46" width="672" height="678" key="search.everywhere.popup/0.22.1366.704@0.22.1366.704" timestamp="1586778454765" />
+    <state x="347" y="165" key="run.anything.popup/0.22.1366.704@0.22.1366.704" timestamp="1586835390202" />
+    <state x="346" y="46" width="672" height="678" key="search.everywhere.popup" timestamp="1587351865965">
+      <screen x="0" y="22" width="1366" height="704" />
+    </state>
+    <state x="346" y="46" width="672" height="678" key="search.everywhere.popup/0.22.1366.704@0.22.1366.704" timestamp="1587351865965" />
   </component>
 </project>

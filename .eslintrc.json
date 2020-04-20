@@ -24,6 +24,7 @@
     ],
     "rules": {
         "no-console": "off",
-        "react/destructuring-assignment": "off"
+        "react/destructuring-assignment": "off",
+        "no-underscore-dangle": "off"
     }
 }
